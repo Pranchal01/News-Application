@@ -1,6 +1,6 @@
 # News-Application
 
-This app uses [NewsAPI](https://newsapi.org/) to get top news headlines. It uses Retrofit 2 to fetch news sources and news headlines from the API and displays in a RecyclerView  and uses Room Persistence Library for saving news.
+This app uses [NewsAPI](https://newsapi.org/) to get top news headlines. It uses Retrofit 2 to fetch news sources and news headlines from the API, displays in a RecyclerView  and uses Room Persistence Library for saving news.
 
 ## Components Used
 
